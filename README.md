@@ -9,7 +9,7 @@ I'm a 28 years old student, to become a dev, and hacking since I was 21. I love 
 I am also a student at [Wyden | Unimetrocamp](https://www.wyden.com.br/unidades/unimetrocamp), a university that is in the main cities of Brazil, with [10 face-to-face teaching institutions and more than 240 distance learning centers](https://www.wyden.com.br/unidades).
 
 * 🌍  I'm based in São Paulo, Brazil
-* ✉️  You can contact me at [devfabiomorais@gmail.com](mailto:devfabiomorais@gmail.com)
+* ✉️  You can contact me at [devfabiomorais@gmail.com(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfabiomorais@gmail.com)
 * 🚀  I'm currently open to work.
 * 🧠  I'm learning Front-end code, Cloud Computing and Python programming language.
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
