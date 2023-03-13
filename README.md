@@ -23,9 +23,9 @@ src="https://img.shields.io/github/followers/devfabiomorais?logo=github&style=fo
 <p align="left">
 <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"><img src="https://www.lua.org/images/logo.gif" width="36" height="36" alt="Lua" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png?20160530175649" width="36" height="36" alt="CSS" /></a>
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="36" height="36" alt="CSS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="36" height="36" alt="JS" /></a>
-<a href="https://www.python.org/about/" target="_blank" rel="noreferrer"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" width="36" height="36" alt="Python" /></a>
+<a href="https://www.python.org/about/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/95/91/ed/9591ed82caa8d20c30db96cb7298d3a9.png" width="36" height="36" alt="Python" /></a>
 </p>
 
 ### Socials
