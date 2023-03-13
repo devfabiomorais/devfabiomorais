@@ -9,19 +9,19 @@ I'm a 28 years old student, to become a dev, and hacking since I was 21. I love 
 I am also a student at [Wyden | Unimetrocamp](https://www.wyden.com.br/unidades/unimetrocamp), a university that is in the main cities of Brazil, with [10 face-to-face teaching institutions and more than 240 distance learning centers](https://www.wyden.com.br/unidades).
 
 * 🌍  I'm based in São Paulo, Brazil;
-* ✉️  You can contact me at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devfabiomorais@gmail.com) or [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5519971522516)
+* ✉️  You can contact me at [devfabiomorais@gmail.com](mailto:devfabiomorais@gmail.com) or by [WhatsApp](https://wa.me/+5519971522516)
 * 🚀  I'm currently open to work
-* 🧠  I'm learning Front-end code, Cloud Computing and Python programming language
+* 🧠  I'm currently learning Front-end code, Cloud Computing and Python programming language
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* 💪  I love sports and my favorites are weight training and capoeira
 
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+<a href="https://www.github.com/devfabiomorais" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/devfabiomorais?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" width="36" height="36" alt="Lua" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
