@@ -21,7 +21,7 @@ src="https://img.shields.io/github/followers/devfabiomorais?logo=github&style=fo
 ### Skills
 
 <p align="left">
-<a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" width="36" height="36" alt="Lua" /></a>
+<a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"><img src="https://www.lua.org/images/logo.gif" width="36" height="36" alt="Lua" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
