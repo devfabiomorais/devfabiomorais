@@ -20,14 +20,12 @@ I am also a student at [Wyden | Unimetrocamp](https://www.wyden.com.br/unidades/
 <a href="https://www.github.com/devfabiomorais" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/devfabiomorais?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
-### Programming languages ​​I'm currently learning
+### P​​I'm currently learning
 
 <p align="left">
 <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer"><img src="https://www.lua.org/images/logo.gif" width="36" height="36" alt="Lua" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer"><img src="https://logospng.org/download/css-3/logo-css-3-2048.png" width="36" height="36" alt="CSS" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" width="36" height="36" alt="JS" /></a>
-<a href="https://www.python.org/about/" target="_blank" rel="noreferrer"><img src="https://i.pinimg.com/originals/95/91/ed/9591ed82caa8d20c30db96cb7298d3a9.png" width="36" height="36" alt="Python" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1200px-Logo_C_sharp.svg.png" width="36" height="36" alt="C#" /></a>
+<a href="https://unity.com/pt/our-company" target="_blank" rel="noreferrer"><img src="https://i.redd.it/tu3gt6ysfxq71.png" width="36" height="36" alt="Unity" /></a>  
 </p>
 
 ### Socials
