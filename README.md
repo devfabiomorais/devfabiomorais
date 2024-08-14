@@ -4,7 +4,7 @@ Hi 👋 My name is Fabio
 Systems Development Analyst Student
 -----------------------------
 
-I'm a 28 years old student, and hacking since I was 21.
+I'm a student was born in 1994, and hacking since 2017.
 I love to code and figure it out how to solve deep problems using high-edge tech.
 My main focus are game development, making games that impact the life of thousands of users.
 
