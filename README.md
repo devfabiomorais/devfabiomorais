@@ -31,7 +31,7 @@ Currently, my focus is on full stack development with JavaScript, TypeScript, No
 
 ### I'm currently learning
 
-<p align="left"><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="36" height="36" alt="NestJS" style="vertical-align: middle; margin-right: 10px;" /></a>&nbsp;<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-eugu5rfi.png" width="36" height="36" alt="React" style="vertical-align: middle;" /></a></p>
+<p align="left"><a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.d792062c.svg" width="36" height="36" alt="NestJS" style="vertical-align: middle; margin-right: 10px;" /></a>&nbsp;<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="36" height="36" alt="React" style="vertical-align: middle;" /></a></p>
 
 ### Socials
 
